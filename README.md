@@ -57,8 +57,3 @@
 - 开源版仅供个人学习使用，严禁作为商业使用
 - 不得有任何公司修改源码用于商业行为，发现追究法律责任
 
-<a name="K53Qv"></a>
-## 官方交流群（开源版有使用问题可以加群，我们可以做协助）
-![1717432720612.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/xuanchuan/qun1.png)
-
-<video src="https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/5d70aa10-b5af-4092-b968-d374dd133269/lesson/video/b7PkCnJKnM1717479632551.mp4" controls="controls" width="500" height="300"></video>
