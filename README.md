@@ -32,19 +32,28 @@
 
 
 <a name="dlymo"></a>
-## 钉钉ISV服务商
-使用钉钉扫码安装应用
-
-| ![微信图片_20240515215826.jpg](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/xuanchuan/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240515215826.jpg) | ![image.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/xuanchuan/image%20%2814%29.png) |
-| --- | --- |
-
-
-<a name="pzwle"></a>
-## 企业微信ISV服务商
-使用企业微信扫码或在应用市场搜索“辅学院企业培训”可安装
-
-| ![微信图片_20240515215819.jpg](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/xuanchuan/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240515215819.jpg) | ![QRcode-small (1).png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/xuanchuan/QRcode-small%20%281%29.png) |
-| --- | --- |
+## 功能清单
+![171741272ew12.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/01.png)
+![171743272ew12.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/02.png)
+![1717432qw1203.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/03.png)
+![1717432qw2604.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/04.png)
+![1717432qw1605.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/05.png)
+![1717432qw1606.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/06.png)
+![1717432qw1607.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/07.png)
+![1717432qw1608.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/08.png)
+![1717432q231609.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/09.png)
+![171743232w0610.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/10.png)
+![1717432q30611.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/11.png)
+![1717432q210612.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/12.png)
+![1717432qw0613.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/13.png)
+![171743232q614.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/14.png)
+![171743232w0615.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/15.png)
+![17174321qw0616.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/16.png)
+![17174322w0617.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/17.png)
+![171743eww0618.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/18.png)
+![17174656w0619.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/19.png)
+![17174312w0620.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/20.png)
+![17174656w0621.png](https://yuechenlearntrain.oss-cn-hangzhou.aliyuncs.com/gongnengqingdan/21.png)
 
 <a name="IaerF"></a>
 ## 产品解决方案
